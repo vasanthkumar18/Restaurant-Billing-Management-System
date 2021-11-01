@@ -10,6 +10,6 @@ For CS4097D: OOS Lab, NITC : Autumn, 2021
 3. [Design](https://github.com/vasanthkumar18/Restaurant-Billing-Management-System/blob/main/Design/B180441CS_Vasanth_Design.pdf)
 4. [Storage Files](https://github.com/vasanthkumar18/Restaurant-Billing-Management-System/tree/main/System/storage)
 
-> Ran in IntelliJ IDEA. 
-> Run Main.java in src to use the application
+> Ran in IntelliJ IDEA<br/>
+> Run Main.java in src to use the application<br/>
 > Add all the proper dependencies and java jdk 11 version 
