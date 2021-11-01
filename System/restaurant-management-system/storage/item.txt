@@ -1,0 +1,3 @@
+Sweet,100.0,8
+Biscuits,5.0,800
+Ice-Cream,50.0,0

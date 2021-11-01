@@ -1,0 +1,4 @@
+Juice,100.0,5
+Cake,200.0,60
+Biscuit,10.0,90
+Fried Rice,200.0,80
