@@ -5,6 +5,7 @@ For CS4097D: OOS Lab, NITC : Batch of 2022
 
 ![img](http://fabcoders.com/wp-content/uploads/2017/03/SWIFTRETAIL-billing.jpg)
 
+0. [License](https://github.com/vasanthkumar18/Restaurant-Billing-Management-System/blob/main/LICENSE)
 1. [Source Codes](https://github.com/vasanthkumar18/Restaurant-Billing-Management-System/tree/main/System/restaurant-management-system/src/restaurantsystem)
 2. [SRS](https://github.com/vasanthkumar18/Restaurant-Billing-Management-System/blob/main/SRS/B180441CS_VASANTH.pdf)
 3. [Design](https://github.com/vasanthkumar18/Restaurant-Billing-Management-System/blob/main/Design/B180441CS_Vasanth_Design.pdf)
