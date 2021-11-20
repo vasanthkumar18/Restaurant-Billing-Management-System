@@ -11,6 +11,8 @@ For CS4097D: OOS Lab ( OBJECT ORIENTED SYSTEMS LABORATORY ), NITC : Batch of 202
 3. [Design](https://github.com/vasanthkumar18/Restaurant-Billing-Management-System/blob/main/Design/B180441CS_Vasanth_Design.pdf)
 4. [Storage Files](https://github.com/vasanthkumar18/Restaurant-Billing-Management-System/tree/main/System/storage)
 
-> Ran in IntelliJ IDEA<br/>
-> Run Main.java inside src (along with the project) to use the application<br/>
-> Add all the proper dependencies and java jdk 11 version 
+``` diff 
+Ran in IntelliJ IDEA. 
+Run Main.java inside src (along with the project) to use the application. 
+Add all the proper dependencies and java jdk 11 version. 
+```
